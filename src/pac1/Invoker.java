@@ -10,7 +10,7 @@ public class Invoker{
 		
 		
 		Logicblock obj= new Logicblock();	
-	    obj.state="Remooo";
+	    obj.state="Remooodzuza";
 	    
 	   name= Logicblock.meth(obj.state);
 	   System.out.println(name);
