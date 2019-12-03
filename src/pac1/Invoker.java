@@ -7,7 +7,7 @@ public class Invoker{
 	public static void main(String[] args)
 	{
 		
-		System.out.println("starting");
+		System.out.println("starting again");
 		
 		Logicblock obj= new Logicblock();	
 	    obj.state="Remooodzuzaa";
