@@ -18,6 +18,7 @@ public class Invoker{
 	   name= Logicblock.meth(obj.state);
 	   System.out.println(name);
 		
+	   System.out.println("summing up");
 
 	}
 
